@@ -8,6 +8,6 @@
 - learning: kotlin, powershell
 
 #### socials
+- instagram: hexalogical
 - discord: mdma#1000
 - snapchat: hexalogical
-- instagram: hexalogical
