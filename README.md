@@ -1,4 +1,4 @@
-### < mdma 3
+### <3 mdma
 
 > dsbm and coding enthusiast
 
