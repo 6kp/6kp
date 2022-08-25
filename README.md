@@ -1,7 +1,8 @@
 ### mdma
 
 > dsbm and coding enthusiast
-> current project: [Jelly]: https://github.com/6kp/Jelly
+> current project:
+[Jelly]: https://github.com/6kp/Jelly
 
 #### about me
 - interests: opsec, coding, offsec
