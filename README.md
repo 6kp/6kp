@@ -14,4 +14,4 @@
 - discord: mdma#1000
 - snapchat: hexalogical
 
-![MDMA](https://user-images.githubusercontent.com/107227132/186549853-de7d70b0-925b-4c5c-ac16-d50a274320a7.png)
+![gimp-2 10_vq56npB5JH](https://user-images.githubusercontent.com/107227132/186550286-6d456ec6-298d-420d-8121-79bdaa34a147.png)
