@@ -5,7 +5,7 @@
 > current project: [Jelly](https://github.com/6kp/Jelly)
 
 #### ? about me
-- interests: opsec, coding, offsec
+- interests: info/offsec, coding, pentesting
 - langs: c/c++, c#, golang, php, nodejs, bash, lua
 - learning: kotlin, powershell
 
