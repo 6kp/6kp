@@ -11,4 +11,4 @@
 
 #### ! socials
 - discord: mdma#1000
-- tiktok: hexalogical
+- instagram: hexalogical
