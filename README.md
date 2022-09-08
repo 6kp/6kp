@@ -2,7 +2,7 @@
 
 > dsbm and coding enthusiast
 
-> current project: [Jelly](https://github.com/6kp/Jelly)
+> current project: cookie
 
 #### ? about me
 - interests: info/offsec, coding, pentesting
