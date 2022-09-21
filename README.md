@@ -1,8 +1,6 @@
-### <3 mdma
+### <3 tekish
 
-> dsbm and coding enthusiast
-
-> current project: cookie
+> current project: mercy
 
 #### ? about me
 - interests: info/offsec, coding, pentesting
@@ -10,5 +8,5 @@
 - learning: kotlin, powershell
 
 #### ! socials
-- discord: mdma#1000
+- discord: tekish#7809
 - instagram: hexalogical
